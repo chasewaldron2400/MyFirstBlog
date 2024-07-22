@@ -27,6 +27,7 @@ This is for anyone who wants to upload their thoughts online This website featur
 ## Credits
 
 - https://github.com/chasewaldron2400
+- https://chasewaldron2400.github.io/MyFirstBlog/
 - Xpert Learning Assistant (NW Ai)
 - NW Tutor 
 

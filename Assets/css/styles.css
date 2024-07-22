@@ -1,0 +1,66 @@
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
+
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+    background-color: #f9f9f9;
+    color: #333; 
+}
+
+
+header {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #BA1A2A;
+    color: white;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+
+#formContainer {
+    width: 80%;
+    max-width: 600px;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+#blogForm label,
+#blogForm input,
+#blogForm button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+#blogForm button {
+    width: auto;
+}
+
+#lightButton {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color:#BA1A2A;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#lightButton:hover {
+    background-color: darkslategrey;
+}
